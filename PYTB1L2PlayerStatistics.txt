@@ -1,0 +1,13 @@
+Name: OWOMaster69
+Power rank: 26570
+LVL: 50 (max)
+Class: Shadow hunter
+Health: 810291
+Physical-damage: 109021
+Magic-damage: 0
+Crit. damage: 1029%
+crit. Rate: 97.71%
+Speed: 103
+Attack Speed: 100
+Healing potions: 20
+Jumps: 3
