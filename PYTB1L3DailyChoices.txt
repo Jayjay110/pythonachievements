@@ -1,0 +1,52 @@
+print("wat eet jij in de ochtend?")
+print(" A. Brood B.niets C. anders")
+antwoord = input()
+if antwoord == "A":
+    print("ik ook")
+
+elif antwoord == "B":
+    print("heb je dan geen honger?")
+
+elif antwoord == "C":
+    print("okay, zolang je wat eet is het goed")
+
+print("hoelang zit je dagelijks achter je Pc/laptop?")
+print("A. 1-3 uur, B. 3-6 uur, C. 6-12, D. 12+")
+antwoord = input()
+if antwoord =="A":
+    print("dat is niet veel")
+elif antwoord == "B":
+    print("dat is een redelijke tijd")
+elif antwoord == "C":
+    print("Okay...")
+elif antwoord == "D":
+    print("damn das wel heel lang")
+
+print("heb je huisdieren?")
+print(" A. ja, B nee")
+Antwoord = input()
+if antwoord == "A":
+    print("ik had een goudvis maar die is verdronken :(")
+elif antwoord == "B":
+    print("ik ook niet")
+
+print("hoe reis je naar school")
+print(" A. OV  B. Gebracht C. Zelf")
+antwoord = input()
+if antwoord == "A":
+    print("ik ook")
+elif antwoord == "B":
+    print("ik ga zelf")
+elif antwoord == "C":
+    print("ik wilde dat ik ook zelf kon gaan")
+
+print("wat vind je van ananas op pizza")
+print("A. Lekker B.vies C.neutraal")
+antwoord = input()
+if antwoord == "A":
+    print("ik vind het ook lekker")
+elif antwoord == "B":
+    print("Oke...")
+elif antwoord == "C":
+    print("Dat kan ik begrijpen")
+            
